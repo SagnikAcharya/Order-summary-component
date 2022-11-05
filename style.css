@@ -13,8 +13,8 @@
 }
 
 body {
-    background-color: var(--Paleblue);
     background: url('./images/pattern-background-desktop.svg');
+    background-color: var(--Paleblue);
     background-repeat: no-repeat;
     background-size: contain;
     font-family: 'Red Hat Display', sans-serif;
