@@ -145,4 +145,56 @@ h6:active {
         background-image: none;
     }
 
+    .container .card {
+        height: 530px;
+        width: 320px;
+        text-align: center;
+    }
+
+    .container .card img {
+        width: 320px;
+        margin-bottom: 40px;
+    }
+
+    .content {
+        width: 78%;
+    }
+
+    .content p {
+        font-size: 0.9rem;
+    }
+
+    .plan {
+        margin: 20px 28px;
+        padding: 15px;
+        margin-bottom: 25px;
+    }
+
+    .plan .music img {
+        height: 40px;
+        width: 40px;
+        margin-bottom: 0;
+    }
+
+    .plan .text {
+        margin-right: 35px;
+    }
+
+    .plan .text h4 {
+        font-size: 1rem;
+    }
+
+    .plan .text h6 {
+        font-size: 0.8rem;
+    }
+
+    .btn {
+        padding: 15px 60px;
+        border-radius: 10px;
+        margin-bottom: 15px;
+
+    }
+
+
+
 }
